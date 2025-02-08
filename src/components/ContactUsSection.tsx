@@ -5,8 +5,8 @@ const ContactSection = () => {
     <section className="bg-gray-900 text-white py-16 px-6" id="contact-us">
       <h2 className="text-4xl font-bold text-center mb-8">Get In Touch</h2>
       <p className="text-gray-400 text-center max-w-2xl mx-auto mb-10">
-        Have questions or want to work with us? Drop us a message and we'll get
-        back to you soon!
+        Have questions or want to work with us? Drop us a message and
+        we`&rsquo;`ll get back to you soon!
       </p>
 
       <form className="max-w-lg mx-auto space-y-6">

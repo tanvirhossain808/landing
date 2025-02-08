@@ -15,7 +15,7 @@ function FormSection() {
               <RxStitchesLogo size={40} />
             </div>
             <h2 className="text-3xl font-bold text-center text-yellow-300 mb-2 mt-5">
-              Angel's Dream
+              Angel`&rsquo;`s Dream
             </h2>
             <p className="text-center text-blue-300 mb-4">
               Advocate for compassion, positive change, & giving back to the
